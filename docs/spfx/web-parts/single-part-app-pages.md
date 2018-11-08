@@ -21,7 +21,7 @@ App pages have following characterers:
 
 ## How to use the Single Part App page in your tenant?
 
-You will need to perform following steps to enable Signle Part App Page layout in your SharePoint site. 
+You will need to perform following steps to enable Single Part App Page layout in your SharePoint site. 
 
 1. Create a new page
 1. Add a web part on the page
